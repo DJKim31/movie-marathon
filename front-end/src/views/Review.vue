@@ -89,8 +89,8 @@ export default {
 <style scoped>
 
 .review {
-background-color: #D3D3D3;
-width: 200px;
+background-color: #a2caee;
+width: 300px;
 margin: 5px;
 
 }
